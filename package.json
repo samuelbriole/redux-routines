@@ -1,5 +1,5 @@
 {
-  "name": "redux-routines",
+  "name": "theodo-redux-routines",
   "version": "0.0.1",
   "description": "redux routines",
   "main": "dist/index.js",

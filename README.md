@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/samuelbriole/redux-routines.svg?style=svg&circle-token=af14fa72e790f9d3d58b696145a331aaae7ff952)](https://circleci.com/gh/samuelbriole/redux-routines)
+[![CircleCI](https://circleci.com/gh/samuelbriole/redux-routines.svg?style=svg&circle-token=af14fa72e790f9d3d58b696145a331aaae7ff952)](https://circleci.com/gh/samuelbriole/redux-routines) [![Greenkeeper badge](https://badges.greenkeeper.io/samuelbriole/theodo-redux-routines.svg)](https://greenkeeper.io/)
 
 # redux-routines
 
